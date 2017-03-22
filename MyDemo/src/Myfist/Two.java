@@ -1,5 +1,5 @@
 package Myfist;
 
-public class Three {
+public class Two {
 
 }
